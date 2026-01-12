@@ -1,0 +1,13 @@
+# R
+.Rhistory
+.RData
+.Rproj.user
+
+# Output files
+output/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
